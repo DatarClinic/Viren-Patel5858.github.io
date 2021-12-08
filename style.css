@@ -1,0 +1,22 @@
+.Details
+{
+  width:600px;
+  margin:auto;
+}
+.InnerDetails
+{
+  width:400px;
+}
+pre
+{
+padding:5px 0;
+font-size: 0.9rem;
+}
+.last
+{
+  padding-bottom: 20px;
+}
+span
+{
+  color:blue;
+}
